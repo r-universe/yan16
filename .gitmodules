@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "OSAT"]
-	path = OSAT
-	url = https://git.bioconductor.org/packages/OSAT
 [submodule "QuantileNPCI"]
 	path = QuantileNPCI
 	url = https://github.com/cran/QuantileNPCI
